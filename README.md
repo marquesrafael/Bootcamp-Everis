@@ -43,3 +43,4 @@ Temas abordados serão:
 - [x] Recriando a interface do NETFLIX
 - [ ] Criando projeto para consultar a previsão do tempo via API
 - [ ] Crie seu gerenciador de salas de reuniões com Java e Angular
+
