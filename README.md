@@ -15,10 +15,10 @@ Temas abordados serão:
 - [x] Desmistificando MAP, FILTER e REDUCE
 - [x] Problemas Aritméticos
 - [x] Desenvolvimento Avançado com JavaScript ES6
-- [ ] Como funciona o ASYNC/AWAIT
-- [ ] Entendendo PROMISES de uma vez por todas
+- [x] Como funciona o ASYNC/AWAIT
+- [x] Entendendo PROMISES de uma vez por todas
 - [ ] Solução de Problemas essenciais
-- [ ] Requisitando dados de uma API de Criptomoedas
+- [x] Requisitando dados de uma API de Criptomoedas
 - [ ] Introdução ao Angular 8
 - [ ] Técnicas avançadas em Angular 8
 - [ ] Busca e Laços de Repetição
